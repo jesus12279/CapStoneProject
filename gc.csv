@@ -1,0 +1,543 @@
+Name,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+Super Smash Bros. Melee,2001.0,Fighting,Nintendo,4.41,1.04,1.39,0.22,7.07
+Mario Kart: Double Dash!!,2003.0,Racing,Nintendo,4.12,1.77,0.87,0.19,6.95
+Super Mario Sunshine,2002.0,Platform,Nintendo,4.01,1.26,0.87,0.17,6.31
+The Legend of Zelda: The Wind Waker,2002.0,Action,Nintendo,2.6,0.99,0.89,0.13,4.6
+Luigi's Mansion,2001.0,Action,Nintendo,2.38,0.67,0.46,0.1,3.6
+Animal Crossing,2001.0,Simulation,Nintendo,1.92,0.16,0.99,0.09,3.15
+Metroid Prime,2002.0,Shooter,Nintendo,1.96,0.67,0.1,0.09,2.82
+Sonic Adventure 2 Battle,2001.0,Platform,Sega,1.7,0.59,0.21,0.07,2.56
+Pokémon Colosseum,2003.0,Role-Playing,Nintendo,1.21,0.57,0.7,0.07,2.54
+Mario Party 4,2002.0,Misc,Nintendo,1.13,0.36,0.92,0.07,2.47
+Paper Mario: The Thousand-Year Door,2004.0,Role-Playing,Nintendo,1.48,0.25,0.46,0.06,2.25
+Mario Party 5,2003.0,Misc,Nintendo,0.97,0.33,0.73,0.06,2.08
+Sonic Mega Collection,2002.0,Misc,Infogrames,1.47,0.48,0.05,0.06,2.05
+Star Wars Rogue Leader: Rogue Squadron II,2001.0,Simulation,LucasArts,1.03,0.75,0.03,0.09,1.9
+Star Fox Adventures,2002.0,Adventure,Nintendo,0.96,0.53,0.3,0.09,1.87
+Resident Evil 4,2005.0,Action,Capcom,0.98,0.42,0.22,0.06,1.69
+Mario Party 6,2004.0,Misc,Nintendo,0.9,0.11,0.6,0.05,1.65
+Pikmin,2001.0,Strategy,Nintendo,0.78,0.25,0.56,0.04,1.63
+Kirby Air Ride,2003.0,Racing,Nintendo,1.01,0.11,0.45,0.04,1.62
+Super Mario Strikers,2005.0,Sports,Nintendo,0.98,0.38,0.2,0.04,1.61
+Sonic Heroes,2003.0,Platform,Sega,1.05,0.44,0.06,0.04,1.6
+The Legend of Zelda: Twilight Princess,2006.0,Action,Nintendo,1.15,0.36,0.04,0.04,1.59
+Mario Party 7,2005.0,Misc,Nintendo,0.95,0.11,0.46,0.04,1.57
+Mario Golf: Toadstool Tour,2003.0,Sports,Nintendo,1.09,0.15,0.25,0.04,1.53
+Super Monkey Ball 2,2002.0,Puzzle,Atari,1.11,0.31,0.06,0.04,1.52
+SoulCalibur II,2003.0,Fighting,Namco Bandai Games,0.99,0.32,0.11,0.08,1.5
+Final Fantasy: Crystal Chronicles,2003.0,Role-Playing,Nintendo,0.72,0.38,0.36,0.04,1.49
+Super Monkey Ball,2001.0,Puzzle,Atari,0.95,0.37,0.1,0.04,1.46
+Mario Superstar Baseball,2005.0,Sports,Nintendo,0.93,0.24,0.25,0.04,1.46
+Resident Evil (Remake),2002.0,Action,Capcom,0.63,0.38,0.35,0.05,1.42
+LEGO Star Wars: The Video Game,2005.0,Action,Eidos Interactive,1.09,0.28,0.0,0.04,1.41
+Donkey Kong Jungle Beat,2004.0,Platform,Nintendo,0.84,0.22,0.24,0.04,1.34
+Metroid Prime 2: Echoes,2004.0,Shooter,Nintendo,0.87,0.35,0.07,0.04,1.33
+Resident Evil Zero,2002.0,Action,Capcom,0.54,0.27,0.45,0.04,1.29
+Sonic Adventure DX: Director's Cut,2003.0,Platform,Sega,0.87,0.3,0.06,0.03,1.27
+Pokemon XD: Gale of Darkness,2005.0,Role-Playing,Nintendo,0.71,0.19,0.31,0.03,1.25
+Mario Power Tennis,2004.0,Sports,Nintendo,0.58,0.16,0.46,0.03,1.22
+Need for Speed Underground,2003.0,Racing,Electronic Arts,0.69,0.48,0.01,0.03,1.21
+Pikmin 2,2004.0,Strategy,Nintendo,0.48,0.13,0.56,0.03,1.2
+Spider-Man: The Movie,2002.0,Action,Activision,0.86,0.27,0.01,0.04,1.19
+Donkey Konga,2003.0,Misc,Nintendo,0.5,0.16,0.46,0.03,1.15
+Need for Speed Underground 2,2004.0,Racing,Electronic Arts,0.7,0.39,0.01,0.03,1.14
+Tales of Symphonia,2003.0,Role-Playing,Nintendo,0.54,0.21,0.31,0.04,1.1
+Star Fox: Assault,2005.0,Shooter,Nintendo,0.68,0.18,0.19,0.03,1.08
+Naruto: Clash of Ninja 2,2003.0,Fighting,Nintendo,0.44,0.12,0.45,0.03,1.04
+Shrek 2,2004.0,Platform,Activision,0.73,0.26,0.01,0.03,1.02
+The Simpsons: Hit & Run,2003.0,Racing,Vivendi Games,0.77,0.2,0.0,0.03,0.99
+Shadow The Hedgehog,2005.0,Platform,Sega,0.76,0.2,0.0,0.03,0.99
+LEGO Star Wars II: The Original Trilogy,2006.0,Action,LucasArts,0.75,0.19,0.0,0.03,0.97
+SpongeBob SquarePants: Battle for Bikini Bottom,2003.0,Platform,THQ,0.74,0.19,0.0,0.03,0.95
+The SpongeBob SquarePants Movie,2004.0,Platform,THQ,0.73,0.19,0.0,0.03,0.94
+Cars,2006.0,Racing,THQ,0.72,0.19,0.0,0.03,0.93
+Sonic Riders,2006.0,Racing,Sega,0.71,0.18,0.0,0.03,0.92
+Finding Nemo,2003.0,Action,THQ,0.69,0.18,0.0,0.02,0.89
+Spider-Man 2,2004.0,Action,Activision,0.65,0.17,0.0,0.02,0.84
+The Incredibles,2004.0,Action,THQ,0.65,0.17,0.0,0.02,0.84
+Tony Hawk's Pro Skater 3,2001.0,Sports,Activision,0.64,0.17,0.0,0.02,0.82
+The Legend of Zelda: Four Swords Adventures,2004.0,Action,Nintendo,0.63,0.16,0.0,0.02,0.81
+Star Wars Rogue Squadron III: Rebel Strike,2003.0,Simulation,LucasArts,0.62,0.16,0.0,0.02,0.8
+Need for Speed: Hot Pursuit 2,2002.0,Racing,Electronic Arts,0.68,0.09,0.0,0.02,0.8
+Harvest Moon: A Wonderful Life,2003.0,Role-Playing,Ubisoft,0.61,0.16,0.0,0.02,0.79
+James Bond 007: Nightfire,2002.0,Shooter,Electronic Arts,0.6,0.16,0.0,0.02,0.78
+James Bond 007: Agent Under Fire,2002.0,Shooter,Electronic Arts,0.56,0.15,0.0,0.02,0.72
+Godzilla: Destroy All Monsters Melee,2002.0,Fighting,Atari,0.55,0.14,0.0,0.02,0.71
+Yu-Gi-Oh! The Falsebound Kingdom,2002.0,Strategy,Konami Digital Entertainment,0.49,0.13,0.07,0.02,0.71
+Spyro: Enter the Dragonfly,2002.0,Platform,Universal Interactive,0.55,0.14,0.0,0.02,0.71
+"WarioWare, Inc.: Mega Party Game$",2003.0,Puzzle,Nintendo,0.2,0.05,0.44,0.02,0.71
+Tony Hawk's Underground,2003.0,Sports,Activision,0.54,0.14,0.0,0.02,0.7
+Madden NFL 2005,2004.0,Sports,Electronic Arts,0.54,0.14,0.0,0.02,0.7
+Dragon Ball Z: Budokai,2003.0,Fighting,Atari,0.53,0.14,0.0,0.02,0.69
+Harry Potter and the Chamber of Secrets,2002.0,Action,Electronic Arts,0.53,0.14,0.0,0.02,0.69
+The Lord of the Rings: The Return of the King,2003.0,Action,Electronic Arts,0.53,0.14,0.0,0.02,0.69
+Naruto: Clash of Ninja,2003.0,Fighting,Tomy Corporation,0.53,0.14,0.0,0.02,0.68
+Madagascar,2005.0,Platform,Activision,0.52,0.13,0.0,0.02,0.66
+The Sims: Bustin' Out,2003.0,Simulation,Electronic Arts,0.43,0.2,0.0,0.03,0.66
+F-Zero GX,2003.0,Racing,Nintendo,0.41,0.11,0.12,0.02,0.65
+Namco Museum,2002.0,Misc,Namco Bandai Games,0.48,0.13,0.0,0.02,0.63
+Madden NFL 07,2006.0,Sports,Electronic Arts,0.48,0.13,0.0,0.02,0.62
+Viewtiful Joe,2003.0,Action,Capcom,0.38,0.1,0.12,0.02,0.62
+Pac-Man Player's Choice Bundle,2003.0,Misc,Namco Bandai Games,0.48,0.12,0.0,0.02,0.62
+Madden NFL 2002,2001.0,Sports,Electronic Arts,0.47,0.12,0.0,0.02,0.61
+Wave Race: Blue Storm,2001.0,Racing,Nintendo,0.4,0.1,0.09,0.02,0.6
+Medal of Honor: Frontline,2002.0,Shooter,Electronic Arts,0.46,0.12,0.0,0.02,0.59
+Crash Bandicoot: The Wrath of Cortex,2002.0,Platform,Universal Interactive,0.46,0.12,0.0,0.02,0.59
+Tony Hawk's Pro Skater 4,2002.0,Sports,Activision,0.45,0.12,0.0,0.02,0.58
+Madden NFL 06,2005.0,Sports,Electronic Arts,0.44,0.11,0.0,0.02,0.57
+True Crime: Streets of LA,2003.0,Action,Activision,0.44,0.11,0.0,0.02,0.56
+Need for Speed: Most Wanted,2005.0,Racing,Electronic Arts,0.43,0.11,0.0,0.02,0.56
+Fire Emblem: Path of Radiance,2005.0,Action,Nintendo,0.29,0.08,0.16,0.01,0.54
+SSX Tricky,2001.0,Sports,Electronic Arts,0.42,0.11,0.0,0.01,0.54
+X-Men Legends,2004.0,Role-Playing,Activision,0.41,0.11,0.0,0.01,0.53
+The Lord of the Rings: The Two Towers,2002.0,Action,Electronic Arts,0.41,0.11,0.0,0.01,0.53
+Madden NFL 2004,2003.0,Sports,Electronic Arts,0.4,0.1,0.0,0.01,0.51
+Avatar: The Last Airbender,2006.0,Adventure,THQ,0.39,0.1,0.0,0.01,0.5
+Tony Hawk's Underground 2,2004.0,Sports,Activision,0.38,0.1,0.0,0.01,0.5
+WWE Wrestlemania X8,2002.0,Fighting,THQ,0.38,0.1,0.0,0.01,0.49
+The Sims,2003.0,Simulation,Electronic Arts,0.35,0.13,0.0,0.01,0.49
+Crazy Taxi,2001.0,Racing,Acclaim Entertainment,0.36,0.09,0.02,0.01,0.49
+Dance Dance Revolution: Mario Mix,2005.0,Misc,Nintendo,0.36,0.09,0.0,0.01,0.47
+Metal Gear Solid: The Twin Snakes,2004.0,Action,Konami Digital Entertainment,0.3,0.08,0.07,0.01,0.47
+Enter the Matrix,2003.0,Action,Atari,0.34,0.09,0.02,0.01,0.45
+Phantasy Star Online Episode I & II,2002.0,Role-Playing,Infogrames,0.23,0.06,0.16,0.01,0.45
+NBA Live 2005,2004.0,Sports,Electronic Arts,0.35,0.09,0.0,0.01,0.45
+WWE Day of Reckoning,2004.0,Fighting,THQ,0.35,0.09,0.0,0.01,0.45
+"SpongeBob SquarePants: Lights, Camera, Pants!",2005.0,Misc,THQ,0.34,0.09,0.0,0.01,0.44
+Naruto: Gekito Ninja Taisen! 3,2004.0,Fighting,Tomy Corporation,0.0,0.0,0.43,0.01,0.44
+Wario World,2003.0,Platform,Nintendo,0.34,0.09,0.0,0.01,0.44
+TimeSplitters 2,2002.0,Shooter,Eidos Interactive,0.34,0.09,0.0,0.01,0.44
+Eternal Darkness: Sanity's Requiem,2002.0,Adventure,Nintendo,0.34,0.09,0.0,0.01,0.44
+Madden NFL 2003,2002.0,Sports,Electronic Arts,0.33,0.09,0.0,0.01,0.43
+NBA Street,2002.0,Sports,Electronic Arts,0.33,0.09,0.0,0.01,0.42
+Medal of Honor: Rising Sun,2003.0,Shooter,Electronic Arts,0.33,0.09,0.0,0.01,0.42
+Tony Hawk's American Wasteland,2005.0,Sports,Activision,0.33,0.08,0.0,0.01,0.42
+James Bond 007: Everything or Nothing,2004.0,Shooter,Electronic Arts,0.32,0.08,0.0,0.01,0.42
+Mega Man Anniversary Collection,2004.0,Platform,Capcom,0.32,0.08,0.0,0.01,0.42
+Harry Potter and the Goblet of Fire,2005.0,Action,Electronic Arts,0.32,0.08,0.0,0.01,0.42
+Kumamon Bomber: Puzzle de Kumamon Taisou,2005.0,Puzzle,Sega,0.32,0.08,0.0,0.01,0.42
+Mortal Kombat: Deadly Alliance,2002.0,Fighting,Midway Games,0.31,0.08,0.0,0.01,0.41
+Tak and the Power of Juju,2003.0,Platform,THQ,0.31,0.08,0.0,0.01,0.4
+Harry Potter: Quidditch World Cup,2003.0,Sports,Electronic Arts,0.31,0.08,0.0,0.01,0.4
+Battalion Wars,2005.0,Strategy,Nintendo,0.25,0.07,0.07,0.01,0.4
+Power Rangers: Dino Thunder,2004.0,Action,THQ,0.31,0.08,0.0,0.01,0.4
+Rampage: Total Destruction,2006.0,Action,Midway Games,0.31,0.08,0.0,0.01,0.4
+The Urbz: Sims in the City,2004.0,Simulation,Electronic Arts,0.24,0.14,0.0,0.02,0.4
+Star Wars: Clone Wars,2002.0,Shooter,Activision,0.31,0.08,0.0,0.01,0.4
+Call of Duty: Finest Hour,2004.0,Shooter,Activision,0.31,0.08,0.0,0.01,0.4
+Donkey Konga 2,2004.0,Misc,Nintendo,0.3,0.08,0.0,0.01,0.39
+Chibi-Robo! Plug into Adventure!,2005.0,Adventure,Nintendo,0.23,0.06,0.09,0.01,0.39
+Turok: Evolution,2002.0,Shooter,Acclaim Entertainment,0.3,0.08,0.0,0.01,0.38
+Marvel Nemesis: Rise of the Imperfects,2005.0,Fighting,Electronic Arts,0.3,0.08,0.0,0.01,0.38
+SSX 3,2003.0,Sports,Electronic Arts,0.29,0.08,0.0,0.01,0.38
+Pokemon Channel,2003.0,Adventure,Nintendo,0.24,0.06,0.07,0.01,0.38
+Harry Potter and the Prisoner of Azkaban,2004.0,Action,Electronic Arts,0.29,0.08,0.0,0.01,0.38
+Ultimate Spider-Man,2005.0,Action,Activision,0.29,0.07,0.0,0.01,0.37
+"Monsters, Inc. Scream Arena",2002.0,Platform,THQ,0.29,0.07,0.0,0.01,0.37
+Custom Robo,2004.0,Role-Playing,Nintendo,0.29,0.07,0.0,0.01,0.37
+Pac-Man World 2,2002.0,Action,Nintendo,0.28,0.07,0.0,0.01,0.37
+GoldenEye: Rogue Agent,2004.0,Shooter,Electronic Arts,0.28,0.07,0.0,0.01,0.36
+Nicktoons: Unite!,2005.0,Adventure,THQ,0.27,0.07,0.0,0.01,0.35
+Need for Speed Carbon,2006.0,Racing,Electronic Arts,0.27,0.07,0.0,0.01,0.35
+NFL Street,2004.0,Sports,Electronic Arts,0.27,0.07,0.0,0.01,0.35
+Over the Hedge,2006.0,Platform,Activision,0.27,0.07,0.0,0.01,0.35
+WWE Day of Reckoning 2,2005.0,Fighting,THQ,0.26,0.07,0.0,0.01,0.34
+Teenage Mutant Ninja Turtles,2003.0,Action,Konami Digital Entertainment,0.26,0.07,0.0,0.01,0.34
+WWE Wrestlemania XIX,2003.0,Fighting,THQ,0.26,0.07,0.0,0.01,0.33
+The Sims 2,2005.0,Simulation,Electronic Arts,0.26,0.07,0.0,0.01,0.33
+Tak 2: The Staff of Dreams,2004.0,Platform,THQ,0.26,0.07,0.0,0.01,0.33
+Call Of Duty 2: Big Red One,2005.0,Shooter,Activision,0.25,0.07,0.0,0.01,0.33
+SpongeBob SquarePants: Creature from the Krusty Krab,2006.0,Platform,THQ,0.25,0.07,0.0,0.01,0.33
+Naruto: Gekito Ninja Taisen! 4,2005.0,Fighting,Tomy Corporation,0.0,0.0,0.32,0.01,0.33
+MVP Baseball 2005,2005.0,Sports,Electronic Arts,0.25,0.07,0.0,0.01,0.33
+Teen Titans,2006.0,Action,THQ,0.25,0.07,0.0,0.01,0.33
+NBA Live 06,2005.0,Sports,Electronic Arts,0.25,0.07,0.0,0.01,0.33
+Prince of Persia: The Sands of Time,2003.0,Action,Ubisoft,0.25,0.06,0.0,0.01,0.32
+NASCAR Thunder 2003,2002.0,Racing,Electronic Arts,0.24,0.06,0.0,0.01,0.31
+Burnout,2002.0,Racing,Acclaim Entertainment,0.23,0.06,0.0,0.01,0.3
+Shark Tale,2004.0,Action,Activision,0.23,0.06,0.0,0.01,0.3
+Scooby-Doo! Night of 100 Frights,2002.0,Platform,THQ,0.23,0.06,0.0,0.01,0.3
+NBA Street V3,2005.0,Sports,Electronic Arts,0.23,0.06,0.0,0.01,0.29
+From TV Animation One Piece: Treasure Battle!,2002.0,Fighting,Namco Bandai Games,0.0,0.0,0.28,0.01,0.29
+The Lord of the Rings: The Third Age,2004.0,Role-Playing,Electronic Arts,0.22,0.06,0.0,0.01,0.29
+Spyro: A Hero's Tail,2004.0,Platform,Vivendi Games,0.22,0.06,0.0,0.01,0.29
+ATV Quad Power Racing 2,2003.0,Racing,Acclaim Entertainment,0.22,0.06,0.0,0.01,0.28
+The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies,2004.0,Action,THQ,0.22,0.06,0.0,0.01,0.28
+Pokemon Box: Ruby & Sapphire,2003.0,Misc,Nintendo,0.0,0.0,0.27,0.01,0.28
+Dave Mirra Freestyle BMX 2,2001.0,Sports,Acclaim Entertainment,0.21,0.06,0.0,0.01,0.28
+Dragon Ball Z: Budokai 2,2004.0,Fighting,Atari,0.21,0.06,0.0,0.01,0.27
+Baten Kaitos: Eternal Wings and the Lost Ocean,2003.0,Role-Playing,Nintendo,0.21,0.05,0.0,0.01,0.27
+Disney's Chicken Little,2005.0,Platform,Disney Interactive Studios,0.21,0.05,0.0,0.01,0.27
+Ty the Tasmanian Tiger,2002.0,Platform,Electronic Arts,0.21,0.05,0.0,0.01,0.27
+NBA Live 2004,2003.0,Sports,Electronic Arts,0.21,0.05,0.0,0.01,0.27
+The Sims 2: Pets,2006.0,Simulation,Electronic Arts,0.21,0.05,0.0,0.01,0.27
+Star Wars: Bounty Hunter,2002.0,Shooter,LucasArts,0.2,0.05,0.0,0.01,0.26
+Batman: Vengeance,2001.0,Adventure,Ubisoft,0.2,0.05,0.0,0.01,0.26
+Crash Nitro Kart,2003.0,Racing,Vivendi Games,0.2,0.05,0.0,0.01,0.26
+Lemony Snicket's A Series of Unfortunate Events,2004.0,Platform,Activision,0.2,0.05,0.0,0.01,0.26
+Backyard NFL Football,2002.0,Sports,Infogrames,0.2,0.05,0.0,0.01,0.26
+MVP Baseball 2004,2004.0,Sports,Electronic Arts,0.2,0.05,0.0,0.01,0.26
+Bomberman Generation,2002.0,Adventure,Vivendi Games,0.15,0.04,0.06,0.01,0.25
+Happy Feet,2006.0,Action,Midway Games,0.2,0.05,0.0,0.01,0.25
+Medal of Honor European Assault,2005.0,Shooter,Electronic Arts,0.19,0.05,0.0,0.01,0.25
+Billy Hatcher and the Giant Egg,2003.0,Platform,Sega,0.19,0.05,0.0,0.01,0.25
+Def Jam Vendetta,2003.0,Fighting,Electronic Arts,0.19,0.05,0.0,0.01,0.25
+"Ed, Edd n Eddy: The Mis-Edventures",2005.0,Platform,Midway Games,0.19,0.05,0.0,0.01,0.25
+Nickelodeon Party Blast,2002.0,Misc,Atari,0.19,0.05,0.0,0.01,0.25
+X-Men Legends II: Rise of Apocalypse,2005.0,Role-Playing,Activision,0.19,0.05,0.0,0.01,0.25
+NBA Courtside 2002,2002.0,Sports,Nintendo,0.19,0.05,0.0,0.01,0.25
+Harvest Moon: Magical Melody,2005.0,Simulation,Ubisoft,0.19,0.05,0.0,0.01,0.24
+Peter Jackson's King Kong: The Official Game of the Movie,2005.0,Action,Ubisoft,0.19,0.05,0.0,0.01,0.24
+The Simpsons: Road Rage,2001.0,Racing,Electronic Arts,0.19,0.05,0.0,0.01,0.24
+Harvest Moon: Another Wonderful Life,2004.0,Role-Playing,Marvelous Interactive,0.19,0.05,0.0,0.01,0.24
+Fantastic 4,2005.0,Action,Activision,0.19,0.05,0.0,0.01,0.24
+Star Wars Jedi Knight II: Jedi Outcast,2002.0,Shooter,Activision,0.18,0.05,0.0,0.01,0.23
+Tom Clancy's Splinter Cell,2003.0,Action,Ubisoft,0.18,0.05,0.0,0.01,0.23
+Rocket Power: Beach Bandits,2002.0,Platform,THQ,0.18,0.05,0.0,0.01,0.23
+Tiger Woods PGA Tour 2003,2002.0,Sports,Electronic Arts,0.18,0.05,0.0,0.01,0.23
+Def Jam: Fight for NY,2004.0,Fighting,Electronic Arts,0.17,0.05,0.0,0.01,0.22
+Mary-Kate and Ashley: Sweet 16 - Licenced to Drive,2003.0,Misc,Acclaim Entertainment,0.17,0.04,0.0,0.01,0.22
+Skies of Arcadia Legends,2002.0,Role-Playing,Atari,0.17,0.04,0.0,0.01,0.22
+NCAA Football 2005,2004.0,Sports,Electronic Arts,0.17,0.04,0.0,0.01,0.22
+Tetris Worlds,2002.0,Puzzle,THQ,0.17,0.04,0.0,0.01,0.22
+Viewtiful Joe 2,2004.0,Action,Capcom,0.17,0.04,0.0,0.01,0.22
+All-Star Baseball 2002,2001.0,Sports,Acclaim Entertainment,0.17,0.04,0.0,0.01,0.22
+From Russia With Love,2005.0,Action,Electronic Arts,0.17,0.04,0.0,0.01,0.22
+NFL 2K3,2002.0,Sports,Sega,0.17,0.04,0.0,0.01,0.22
+Scooby-Doo! Mystery Mayhem,2004.0,Action,THQ,0.17,0.04,0.0,0.01,0.22
+Shrek SuperSlam,2005.0,Action,Activision,0.17,0.04,0.0,0.01,0.22
+Namco Museum: 50th Anniversary,2005.0,Misc,Namco Bandai Games,0.17,0.04,0.0,0.01,0.21
+Bratz: Forever Diamondz,2006.0,Adventure,THQ,0.17,0.04,0.0,0.01,0.21
+Naruto: Clash of Ninja (JP sales),2003.0,Fighting,Tomy Corporation,0.0,0.0,0.21,0.01,0.21
+The Fairly OddParents: Breakin' Da Rules,2003.0,Platform,THQ,0.16,0.04,0.0,0.01,0.21
+Bionicle,2003.0,Action,Electronic Arts,0.16,0.04,0.0,0.01,0.21
+NHL Hitz 20-02,2001.0,Sports,Midway Games,0.16,0.04,0.0,0.01,0.21
+NCAA Football 2003,2002.0,Sports,Electronic Arts,0.16,0.04,0.0,0.01,0.21
+BeyBlade VForce: Super Tournament Battle,2002.0,Action,Atari,0.16,0.04,0.0,0.01,0.21
+Dragon Ball Z: Sagas,2005.0,Fighting,Atari,0.16,0.04,0.0,0.01,0.21
+Bratz: Rock Angelz,2005.0,Misc,THQ,0.16,0.04,0.0,0.01,0.2
+From TV Animation One Piece: Grand Battle! 3,2003.0,Fighting,Namco Bandai Games,0.0,0.0,0.2,0.01,0.2
+The Fairly Odd Parents: Shadow Showdown,2004.0,Platform,THQ,0.16,0.04,0.0,0.01,0.2
+Spy Hunter,2002.0,Racing,Midway Games,0.16,0.04,0.0,0.01,0.2
+Ty the Tasmanian Tiger 2: Bush Rescue,2004.0,Platform,Electronic Arts,0.15,0.04,0.0,0.01,0.2
+NFL Street 2,2004.0,Sports,Electronic Arts,0.15,0.04,0.0,0.01,0.2
+SpongeBob SquarePants: Revenge of the Flying Dutchman,2002.0,Platform,THQ,0.15,0.04,0.0,0.01,0.2
+MC Groovz Dance Craze,2004.0,Misc,Mad Catz,0.15,0.04,0.0,0.01,0.2
+Prince of Persia: Warrior Within,2004.0,Action,Ubisoft,0.15,0.04,0.0,0.01,0.2
+Ice Age 2: The Meltdown,2006.0,Platform,Vivendi Games,0.15,0.04,0.0,0.01,0.19
+Disney's Magical Mirror Starring Mickey Mouse,2002.0,Adventure,Nintendo,0.15,0.04,0.0,0.01,0.19
+Teenage Mutant Ninja Turtles 2: Battle Nexus,2004.0,Action,Konami Digital Entertainment,0.15,0.04,0.0,0.01,0.19
+Hulk,2003.0,Action,Universal Interactive,0.15,0.04,0.0,0.01,0.19
+The Legend of Spyro: A New Beginning,2006.0,Platform,Vivendi Games,0.15,0.04,0.0,0.01,0.19
+Bloody Roar: Primal Fury,2002.0,Fighting,Activision,0.14,0.04,0.0,0.0,0.18
+FIFA Soccer 07,2006.0,Sports,Electronic Arts,0.14,0.04,0.0,0.0,0.18
+Gauntlet: Dark Legacy,2002.0,Action,Midway Games,0.14,0.04,0.0,0.0,0.18
+Gun,2005.0,Shooter,Activision,0.14,0.04,0.0,0.0,0.18
+FIFA Soccer 2002,2001.0,Sports,Electronic Arts,0.14,0.04,0.0,0.0,0.18
+Disney's Tarzan Untamed,2001.0,Platform,Ubisoft,0.14,0.04,0.0,0.0,0.18
+Charlie and the Chocolate Factory,2005.0,Adventure,Global Star,0.14,0.04,0.0,0.0,0.18
+Rugrats: Royal Ransom,2002.0,Platform,THQ,0.13,0.03,0.0,0.0,0.17
+Open Season,2006.0,Platform,Ubisoft,0.13,0.03,0.0,0.0,0.17
+Major League Baseball 2K6,2006.0,Sports,Take-Two Interactive,0.13,0.03,0.0,0.0,0.17
+The Grim Adventures of Billy & Mandy,2006.0,Action,Midway Games,0.13,0.03,0.0,0.0,0.17
+The Hobbit,2003.0,Platform,Vivendi Games,0.13,0.03,0.0,0.0,0.17
+True Crime: New York City,2005.0,Action,Activision,0.13,0.03,0.0,0.0,0.17
+Fight Night Round 2,2005.0,Fighting,Electronic Arts,0.13,0.03,0.0,0.0,0.17
+Looney Tunes: Back in Action,2003.0,Platform,Warner Bros. Interactive Entertainment,0.13,0.03,0.0,0.0,0.17
+SSX On Tour,2005.0,Sports,Electronic Arts,0.13,0.03,0.0,0.0,0.17
+Shrek Extra Large,2002.0,Platform,TDK Mediactive,0.13,0.03,0.0,0.0,0.17
+Mega Man Network Transmission,2003.0,Platform,Capcom,0.13,0.03,0.0,0.0,0.17
+Lost Kingdoms,2002.0,Role-Playing,Activision,0.1,0.02,0.04,0.0,0.17
+Midway Arcade Treasures,2003.0,Misc,Midway Games,0.13,0.03,0.0,0.0,0.17
+Cubivore: Survival of the Fittest,2002.0,Adventure,Nintendo,0.01,0.0,0.15,0.0,0.17
+Robotech: Battlecry,2002.0,Shooter,TDK Mediactive,0.13,0.03,0.0,0.0,0.16
+Midway Arcade Treasures 2,2004.0,Misc,Midway Games,0.13,0.03,0.0,0.0,0.16
+Hot Wheels World Race,2003.0,Racing,THQ,0.13,0.03,0.0,0.0,0.16
+Crash Tag Team Racing,2005.0,Racing,Vivendi Games,0.12,0.03,0.0,0.0,0.16
+The Incredibles: Rise of the Underminer,2005.0,Action,THQ,0.12,0.03,0.0,0.0,0.16
+Flushed Away,2006.0,Platform,D3Publisher,0.12,0.03,0.0,0.0,0.16
+Robots,2005.0,Action,Vivendi Games,0.12,0.03,0.0,0.0,0.16
+Tiger Woods PGA Tour 2004,2003.0,Sports,Electronic Arts,0.12,0.03,0.0,0.0,0.16
+NBA 2K3,2002.0,Sports,Sega,0.12,0.03,0.0,0.0,0.16
+Burnout 2: Point of Impact,2003.0,Racing,Acclaim Entertainment,0.12,0.03,0.0,0.0,0.15
+Tak: The Great Juju Challenge,2005.0,Platform,THQ,0.12,0.03,0.0,0.0,0.15
+Knockout Kings 2003,2002.0,Sports,Electronic Arts,0.12,0.03,0.0,0.0,0.15
+NCAA Football 2004,2003.0,Sports,Electronic Arts,0.12,0.03,0.0,0.0,0.15
+XGIII: Extreme G Racing,2001.0,Racing,Acclaim Entertainment,0.12,0.03,0.0,0.0,0.15
+Scooby-Doo! Unmasked,2005.0,Platform,THQ,0.12,0.03,0.0,0.0,0.15
+Army Men: Sarge's War,2004.0,Shooter,Global Star,0.12,0.03,0.0,0.0,0.15
+Frogger's Adventures: The Rescue,2003.0,Platform,Konami Digital Entertainment,0.12,0.03,0.0,0.0,0.15
+Zoids: Battle Legends,2003.0,Action,Tomy Corporation,0.12,0.03,0.0,0.0,0.15
+Killer7,2005.0,Action,Capcom,0.12,0.03,0.0,0.0,0.15
+Super Monkey Ball Adventure,2006.0,Platform,Sega,0.12,0.03,0.0,0.0,0.15
+Top Gun: Combat Zones,2002.0,Simulation,Titus,0.12,0.03,0.0,0.0,0.15
+All-Star Baseball 2003,2002.0,Sports,Acclaim Entertainment,0.12,0.03,0.0,0.0,0.15
+X-Men: The Official Game,2006.0,Action,Activision,0.12,0.03,0.0,0.0,0.15
+Curious George,2006.0,Action,Namco Bandai Games,0.11,0.03,0.0,0.0,0.15
+Geist,2005.0,Adventure,Nintendo,0.11,0.03,0.0,0.0,0.15
+The Incredible Hulk: Ultimate Destruction,2005.0,Action,Vivendi Games,0.11,0.03,0.0,0.0,0.15
+Prince of Persia: The Two Thrones,2005.0,Action,Ubisoft,0.11,0.03,0.0,0.0,0.15
+Batman Begins,2005.0,Action,Electronic Arts,0.11,0.03,0.0,0.0,0.15
+Tom Clancy's Ghost Recon,2003.0,Shooter,Ubisoft,0.11,0.03,0.0,0.0,0.15
+MLB SlugFest 20-03,2002.0,Sports,Midway Games,0.11,0.03,0.0,0.0,0.15
+Ratatouille,2007.0,Action,THQ,0.11,0.03,0.0,0.0,0.14
+Doshin the Giant,2002.0,Simulation,Nintendo,0.0,0.0,0.14,0.0,0.14
+FIFA Soccer 2005,2004.0,Sports,Electronic Arts,0.11,0.03,0.0,0.0,0.14
+Dead to Rights,2002.0,Shooter,Electronic Arts,0.11,0.03,0.0,0.0,0.14
+Sphinx and the Cursed Mummy,2003.0,Action,THQ,0.11,0.03,0.0,0.0,0.14
+Baldur's Gate: Dark Alliance,2002.0,Role-Playing,Virgin Interactive,0.11,0.03,0.0,0.0,0.14
+Monster House,2006.0,Adventure,THQ,0.11,0.03,0.0,0.0,0.14
+NFL Blitz 20-03,2002.0,Sports,Midway Games,0.11,0.03,0.0,0.0,0.14
+Ultimate Muscle - The Kinnikuman Legacy: Legends vs New Generation,2002.0,Fighting,Namco Bandai Games,0.04,0.01,0.08,0.0,0.14
+Rayman Arena,2002.0,Racing,Ubisoft,0.11,0.03,0.0,0.0,0.14
+FIFA 06 Soccer,2005.0,Sports,Electronic Arts,0.11,0.03,0.0,0.0,0.14
+4x4 EVO 2,2002.0,Racing,Vivendi Games,0.11,0.03,0.0,0.0,0.14
+Tiger Woods PGA Tour 2005,2004.0,Sports,Electronic Arts,0.1,0.03,0.0,0.0,0.14
+NHL 2003,2002.0,Sports,Electronic Arts,0.1,0.03,0.0,0.0,0.13
+Frogger Beyond,2002.0,Platform,Konami Digital Entertainment,0.1,0.03,0.0,0.0,0.13
+Shrek Smash n' Crash Racing,2006.0,Racing,Activision,0.1,0.03,0.0,0.0,0.13
+FIFA World Cup Germany 2006,2006.0,Sports,Electronic Arts,0.1,0.03,0.0,0.0,0.13
+Hitman 2: Silent Assassin,2003.0,Action,Eidos Interactive,0.1,0.03,0.0,0.0,0.13
+Backyard Baseball,2003.0,Sports,Infogrames,0.1,0.03,0.0,0.0,0.13
+Legends of Wrestling,2002.0,Fighting,Acclaim Entertainment,0.1,0.03,0.0,0.0,0.13
+Zapper: One Wicked Cricket!,2002.0,Platform,Infogrames,0.1,0.03,0.0,0.0,0.13
+Monopoly Party,2002.0,Misc,Infogrames,0.1,0.03,0.0,0.0,0.13
+X-Men: Next Dimension,2002.0,Fighting,Activision,0.1,0.03,0.0,0.0,0.13
+Freedom Fighters,2003.0,Shooter,Electronic Arts,0.1,0.03,0.0,0.0,0.13
+Mega Man X Collection,2006.0,Misc,Capcom,0.1,0.03,0.0,0.0,0.13
+Mega Man X: Command Mission,2004.0,Role-Playing,Capcom,0.1,0.02,0.0,0.0,0.12
+NASCAR 2005: Chase for the Cup,2004.0,Racing,Electronic Arts,0.1,0.02,0.0,0.0,0.12
+The Ant Bully,2006.0,Platform,Midway Games,0.09,0.02,0.0,0.0,0.12
+X2: Wolverine's Revenge,2003.0,Platform,Activision,0.09,0.02,0.0,0.0,0.12
+Disney's Extreme Skate Adventure,2003.0,Sports,Activision,0.09,0.02,0.0,0.0,0.12
+NBA 2K2,2002.0,Sports,Sega,0.09,0.02,0.0,0.0,0.12
+Jeremy McGrath Supercross World,2002.0,Racing,Acclaim Entertainment,0.09,0.02,0.0,0.0,0.12
+Legends of Wrestling II,2002.0,Fighting,Acclaim Entertainment,0.09,0.02,0.0,0.0,0.12
+Jikkyou Powerful Pro Yakyuu 9,2002.0,Sports,Konami Digital Entertainment,0.0,0.0,0.11,0.0,0.12
+Teenage Mutant Ninja Turtles 3: Mutant Nightmare,2005.0,Action,Konami Digital Entertainment,0.09,0.02,0.0,0.0,0.12
+Dora the Explorer: Journey to the Purple Planet,2005.0,Adventure,Global Star,0.09,0.02,0.0,0.0,0.12
+Barnyard,2006.0,Action,THQ,0.09,0.02,0.0,0.0,0.12
+Die Hard: Vendetta,2002.0,Shooter,NDA Productions,0.09,0.02,0.0,0.0,0.12
+FIFA Street 2,2006.0,Sports,Electronic Arts,0.09,0.02,0.0,0.0,0.11
+18 Wheeler: American Pro Trucker,2002.0,Racing,Acclaim Entertainment,0.09,0.02,0.0,0.0,0.11
+BloodRayne,2002.0,Shooter,Universal Interactive,0.09,0.02,0.0,0.0,0.11
+Home Run King,2002.0,Sports,Sega,0.09,0.02,0.0,0.0,0.11
+Capcom vs. SNK 2 EO,2002.0,Fighting,Capcom,0.09,0.02,0.0,0.0,0.11
+Hot Wheels Velocity X,2002.0,Racing,THQ,0.09,0.02,0.0,0.0,0.11
+Mortal Kombat: Deception,2005.0,Fighting,Midway Games,0.09,0.02,0.0,0.0,0.11
+The Adventures of Jimmy Neutron Boy Genius: Jet Fusion,2003.0,Action,THQ,0.09,0.02,0.0,0.0,0.11
+Odama,2006.0,Misc,Nintendo,0.07,0.02,0.02,0.0,0.11
+Bionicle Heroes,2006.0,Shooter,Eidos Interactive,0.08,0.02,0.0,0.0,0.11
+The Scorpion King: Rise of the Akkadian,2002.0,Action,Universal Interactive,0.08,0.02,0.0,0.0,0.11
+Defender,2002.0,Misc,Midway Games,0.08,0.02,0.0,0.0,0.11
+The Polar Express,2004.0,Adventure,THQ,0.08,0.02,0.0,0.0,0.11
+Starsky & Hutch,2003.0,Racing,BAM! Entertainment,0.08,0.02,0.0,0.0,0.11
+Tiger Woods PGA Tour 06,2005.0,Sports,Electronic Arts,0.08,0.02,0.0,0.0,0.11
+Reign of Fire,2002.0,Shooter,BAM! Entertainment,0.08,0.02,0.0,0.0,0.11
+Jikkyou Powerful Pro Yakyuu 10,2003.0,Sports,Konami Digital Entertainment,0.0,0.0,0.1,0.0,0.1
+Metal Arms: Glitch in the System,2003.0,Shooter,Vivendi Games,0.08,0.02,0.0,0.0,0.1
+Tom Clancy's Splinter Cell: Chaos Theory,2005.0,Action,Ubisoft,0.08,0.02,0.0,0.0,0.1
+Hunter: The Reckoning,2002.0,Action,Virgin Interactive,0.08,0.02,0.0,0.0,0.1
+Baten Kaitos Origins,2006.0,Role-Playing,Unknown,0.06,0.02,0.02,0.0,0.1
+NHL 2004,2003.0,Sports,Electronic Arts,0.08,0.02,0.0,0.0,0.1
+Minority Report: Everybody Runs,2002.0,Action,Activision,0.08,0.02,0.0,0.0,0.1
+Disney's The Haunted Mansion,2003.0,Platform,Take-Two Interactive,0.08,0.02,0.0,0.0,0.1
+Beach Spikers: Virtua Beach Volleyball,2002.0,Sports,Sega,0.08,0.02,0.0,0.0,0.1
+Universal Studios Theme Parks Adventure,2001.0,Misc,Kemco,0.08,0.02,0.0,0.0,0.1
+Jikkyou Powerful Pro Yakyuu 11,2004.0,Sports,Konami Digital Entertainment,0.0,0.0,0.09,0.0,0.1
+SeaWorld Adventure Parks: Shamu's Deep Sea Adventure,2005.0,Adventure,Activision,0.07,0.02,0.0,0.0,0.09
+Pac-Man World 3,2005.0,Platform,Namco Bandai Games,0.07,0.02,0.0,0.0,0.09
+Rocky,2002.0,Fighting,Rage Software,0.07,0.02,0.0,0.0,0.09
+Freekstyle,2002.0,Racing,Electronic Arts,0.07,0.02,0.0,0.0,0.09
+Alien Hominid,2004.0,Shooter,O3 Entertainment,0.07,0.02,0.0,0.0,0.09
+I-Ninja,2003.0,Platform,Namco Bandai Games,0.07,0.02,0.0,0.0,0.09
+MX SuperFly featuring Ricky Carmichael,2002.0,Racing,THQ,0.07,0.02,0.0,0.0,0.09
+NASCAR: Dirt to Daytona,2002.0,Racing,Infogrames,0.07,0.02,0.0,0.0,0.09
+Mystic Heroes,2002.0,Action,Tecmo Koei,0.03,0.01,0.04,0.0,0.09
+Battle Stadium D.O.N,2006.0,Fighting,Namco Bandai Games,0.0,0.0,0.09,0.0,0.09
+NFL Blitz 20-02,2002.0,Sports,Midway Games,0.07,0.02,0.0,0.0,0.09
+Ikaruga,2003.0,Shooter,Atari,0.07,0.02,0.0,0.0,0.09
+Digimon World 4,2005.0,Role-Playing,Namco Bandai Games,0.07,0.02,0.0,0.0,0.09
+Ty the Tasmanian Tiger 3: Night of the Quinkan,2005.0,Action,Activision,0.07,0.02,0.0,0.0,0.09
+Bleach GC: Tasogare Ni Mamieru Shinigami,2005.0,Fighting,Sega,0.0,0.0,0.08,0.0,0.09
+Jimmy Neutron: Boy Genius,2002.0,Platform,THQ,0.07,0.02,0.0,0.0,0.09
+XIII,2003.0,Shooter,Ubisoft,0.07,0.02,0.0,0.0,0.09
+SRS: Street Racing Syndicate,2004.0,Racing,Namco Bandai Games,0.07,0.02,0.0,0.0,0.08
+Bomberman Jetters,2002.0,Puzzle,Hudson Soft,0.06,0.02,0.0,0.0,0.08
+Hello Kitty: Roller Rescue,2005.0,Action,Empire Interactive,0.06,0.02,0.0,0.0,0.08
+Jikkyou Powerful Pro Yakyuu 12,2005.0,Sports,Konami Digital Entertainment,0.0,0.0,0.08,0.0,0.08
+Pac-Man World Rally,2006.0,Racing,Namco Bandai Games,0.06,0.02,0.0,0.0,0.08
+NHL 06,2005.0,Sports,Electronic Arts,0.06,0.02,0.0,0.0,0.08
+Tom Clancy's Splinter Cell: Pandora Tomorrow,2004.0,Action,Ubisoft,0.06,0.02,0.0,0.0,0.08
+Swingerz Golf,2002.0,Sports,Eidos Interactive,0.06,0.02,0.0,0.0,0.08
+FIFA Soccer 2003,2002.0,Sports,Electronic Arts,0.06,0.02,0.0,0.0,0.08
+Outlaw Golf,2002.0,Sports,TDK Mediactive,0.06,0.02,0.0,0.0,0.08
+Smuggler's Run: Warzones,2002.0,Misc,Take-Two Interactive,0.06,0.02,0.0,0.0,0.08
+Big Mutha Truckers,2003.0,Racing,Empire Interactive,0.06,0.02,0.0,0.0,0.08
+Harry Potter and the Sorcerer's Stone,2003.0,Action,Electronic Arts,0.06,0.02,0.0,0.0,0.08
+TimeSplitters: Future Perfect,2005.0,Shooter,Electronic Arts,0.06,0.02,0.0,0.0,0.08
+Shonen Jump's One Piece: Pirates Carnival,2005.0,Misc,Namco Bandai Games,0.06,0.02,0.0,0.0,0.08
+Superman: Shadow of Apokolips,2003.0,Action,Atari,0.06,0.02,0.0,0.0,0.08
+Batman: Dark Tomorrow,2003.0,Action,Kemco,0.06,0.02,0.0,0.0,0.08
+Tomb Raider: Legend,2006.0,Action,Eidos Interactive,0.06,0.02,0.0,0.0,0.08
+Taz Wanted,2002.0,Platform,Atari,0.06,0.02,0.0,0.0,0.08
+Evolution Worlds,2002.0,Role-Playing,Ubisoft,0.06,0.02,0.0,0.0,0.08
+P.N.03 - Product Number Three,2003.0,Shooter,Capcom,0.06,0.02,0.0,0.0,0.08
+Phantasy Star Online Episode III: C.A.R.D. Revolution,2003.0,Role-Playing,Sega,0.06,0.02,0.0,0.0,0.08
+Ultimate Fighting Championship: Throwdown,2002.0,Fighting,Ubisoft,0.06,0.02,0.0,0.0,0.08
+WWE Crush Hour,2003.0,Racing,THQ,0.06,0.02,0.0,0.0,0.08
+Momotarou Dentetsu 11,2002.0,Misc,Hudson Soft,0.0,0.0,0.07,0.0,0.08
+NHL Hitz 20-03,2002.0,Sports,Midway Games,0.06,0.02,0.0,0.0,0.08
+Resident Evil 3: Nemesis,2003.0,Action,Capcom,0.06,0.02,0.0,0.0,0.08
+All-Star Baseball 2004,2003.0,Sports,Acclaim Entertainment,0.06,0.02,0.0,0.0,0.08
+Madden NFL 08,2007.0,Sports,Electronic Arts,0.06,0.02,0.0,0.0,0.08
+Pitfall: The Lost Expedition,2004.0,Platform,Activision,0.06,0.02,0.0,0.0,0.08
+R: Racing Evolution,2003.0,Racing,Namco Bandai Games,0.06,0.02,0.0,0.0,0.08
+Conflict: Desert Storm,2003.0,Shooter,SCi,0.06,0.02,0.0,0.0,0.08
+Driven,2002.0,Racing,BAM! Entertainment,0.06,0.02,0.0,0.0,0.08
+Gladius,2003.0,Strategy,Activision,0.06,0.01,0.0,0.0,0.07
+Beyond Good & Evil,2003.0,Adventure,Ubisoft,0.06,0.01,0.0,0.0,0.07
+SD Gundam: Gashapon Wars,2005.0,Strategy,Namco Bandai Games,0.0,0.0,0.07,0.0,0.07
+TMNT: Mutant Melee,2005.0,Fighting,Konami Digital Entertainment,0.06,0.01,0.0,0.0,0.07
+Tom Clancy's Ghost Recon 2,2005.0,Shooter,Ubisoft,0.06,0.01,0.0,0.0,0.07
+NCAA College Football 2K3,2002.0,Sports,Sega,0.05,0.01,0.0,0.0,0.07
+Karaoke Revolution Party,2005.0,Misc,Konami Digital Entertainment,0.05,0.01,0.0,0.0,0.07
+Wallace & Gromit in Project Zoo,2003.0,Platform,BAM! Entertainment,0.05,0.01,0.0,0.0,0.07
+FIFA Soccer 2004,2003.0,Sports,Electronic Arts,0.05,0.01,0.0,0.0,0.07
+Rayman 3: Hoodlum Havoc,2003.0,Platform,Ubisoft,0.05,0.01,0.0,0.0,0.07
+Disney's Winnie the Pooh's Rumbly Tumbly Adventure,2005.0,Platform,Ubisoft,0.05,0.01,0.0,0.0,0.07
+Catwoman,2004.0,Action,Electronic Arts,0.05,0.01,0.0,0.0,0.07
+Spartan: Total Warrior,2005.0,Action,Sega,0.05,0.01,0.0,0.0,0.07
+Tom and Jerry in War of the Whiskers,2003.0,Fighting,NewKidCo,0.05,0.01,0.0,0.0,0.07
+NHL 2005,2004.0,Sports,Electronic Arts,0.05,0.01,0.0,0.0,0.07
+Midway Arcade Treasures 3,2005.0,Misc,Midway Games,0.05,0.01,0.0,0.0,0.07
+The Powerpuff Girls: Relish Rampage,2002.0,Action,BAM! Entertainment,0.05,0.01,0.0,0.0,0.07
+Army Men: RTS,2004.0,Strategy,Global Star,0.05,0.01,0.0,0.0,0.07
+Sega Soccer Slam,2002.0,Sports,Sega,0.05,0.01,0.0,0.0,0.07
+Spawn: Armageddon,2003.0,Action,Electronic Arts,0.05,0.01,0.0,0.0,0.07
+Cabela's Big Game Hunter 2005 Adventures,2004.0,Sports,Activision,0.05,0.01,0.0,0.0,0.07
+Worms 3D,2003.0,Strategy,Sega,0.05,0.01,0.0,0.0,0.07
+Zatch Bell! Mamodo Battles,2005.0,Fighting,Namco Bandai Games,0.05,0.01,0.0,0.0,0.06
+BMX XXX,2002.0,Sports,Acclaim Entertainment,0.05,0.01,0.0,0.0,0.06
+Tonka Rescue Patrol,2003.0,Action,TDK Mediactive,0.05,0.01,0.0,0.0,0.06
+Cel Damage,2002.0,Racing,Electronic Arts,0.05,0.01,0.0,0.0,0.06
+Intellivision Lives!,2004.0,Misc,Crave Entertainment,0.05,0.01,0.0,0.0,0.06
+Strike Force Bowling,2005.0,Sports,Crave Entertainment,0.05,0.01,0.0,0.0,0.06
+Shonen Jump's One Piece: Grand Battle,2005.0,Fighting,Namco Bandai Games,0.05,0.01,0.0,0.0,0.06
+Vexx,2003.0,Platform,Acclaim Entertainment,0.05,0.01,0.0,0.0,0.06
+Batman: Rise of Sin Tzu,2003.0,Action,Ubisoft,0.05,0.01,0.0,0.0,0.06
+Disney Sports Skateboarding,2002.0,Sports,Konami Digital Entertainment,0.05,0.01,0.0,0.0,0.06
+Worms Blast,2002.0,Puzzle,Ubisoft,0.05,0.01,0.0,0.0,0.06
+Resident Evil - Code: Veronica X,2003.0,Action,Capcom,0.05,0.01,0.0,0.0,0.06
+Kelly Slater's Pro Surfer,2002.0,Sports,Activision,0.05,0.01,0.0,0.0,0.06
+Resident Evil 2,2003.0,Action,Capcom,0.04,0.01,0.0,0.0,0.06
+Tom Clancy's Splinter Cell: Double Agent,2006.0,Action,Ubisoft,0.04,0.01,0.0,0.0,0.06
+FIFA Street,2005.0,Sports,Electronic Arts,0.04,0.01,0.0,0.0,0.06
+Lost Kingdoms II,2003.0,Role-Playing,Activision,0.04,0.01,0.0,0.0,0.06
+Aggressive Inline,2002.0,Sports,Acclaim Entertainment,0.04,0.01,0.0,0.0,0.06
+Viewtiful Joe: Red Hot Rumble,2005.0,Action,Capcom,0.04,0.01,0.0,0.0,0.06
+Wreckless: ThE YaKuza MisSiOns,2002.0,Racing,Activision,0.04,0.01,0.0,0.0,0.06
+Dance Dance Revolution: Mario Mix (JP sales),2005.0,Simulation,Nintendo,0.0,0.0,0.05,0.0,0.06
+Tom Clancy's Rainbow Six 3,2004.0,Shooter,Ubisoft,0.04,0.01,0.0,0.0,0.06
+Amazing Island,2004.0,Strategy,Sega,0.04,0.01,0.0,0.0,0.06
+Phantasy Star Online Episode I & II Plus,2003.0,Role-Playing,Sega,0.04,0.01,0.0,0.0,0.05
+NFL Quarterback Club 2002,2001.0,Sports,Acclaim Entertainment,0.04,0.01,0.0,0.0,0.05
+Blood Omen 2,2002.0,Action,Eidos Interactive,0.04,0.01,0.0,0.0,0.05
+Shaman King: Soul Fight,2003.0,Platform,Namco Bandai Games,0.0,0.0,0.05,0.0,0.05
+Medabots: Infinity,2003.0,Role-Playing,Ubisoft,0.04,0.01,0.0,0.0,0.05
+Virtua Striker 2002,2002.0,Sports,Sega,0.01,0.0,0.03,0.0,0.05
+Disney's PK: Out of the Shadows,2002.0,Platform,Ubisoft,0.04,0.01,0.0,0.0,0.05
+Piglet's Big Game,2003.0,Platform,Gotham Games,0.04,0.01,0.0,0.0,0.05
+Pinball Hall of Fame: The Gottlieb Collection,2005.0,Misc,Crave Entertainment,0.04,0.01,0.0,0.0,0.05
+Disney's Party,2002.0,Misc,Electronic Arts,0.04,0.01,0.0,0.0,0.05
+Shrek Super Party,2003.0,Misc,TDK Mediactive,0.04,0.01,0.0,0.0,0.05
+Monster 4x4: Masters of Metal,2003.0,Racing,Ubisoft,0.04,0.01,0.0,0.0,0.05
+Second Sight,2004.0,Adventure,Codemasters,0.04,0.01,0.0,0.0,0.05
+Rave Master,2002.0,Fighting,Konami Digital Entertainment,0.0,0.0,0.05,0.0,0.05
+ESPN International Winter Sports 2002,2002.0,Sports,Konami Digital Entertainment,0.04,0.01,0.0,0.0,0.05
+Dark Summit,2002.0,Sports,THQ,0.04,0.01,0.0,0.0,0.05
+Codename: Kids Next Door: Operation V.I.D.E.O.G.A.M.E.,2005.0,Platform,Global Star,0.04,0.01,0.0,0.0,0.05
+Rogue Ops,2003.0,Action,Kemco,0.04,0.01,0.0,0.0,0.05
+Whirl Tour,2002.0,Sports,Vivendi Games,0.04,0.01,0.0,0.0,0.05
+World Series of Poker,2005.0,Misc,Activision Value,0.04,0.01,0.0,0.0,0.05
+American Chopper 2: Full Throttle,2005.0,Racing,Activision,0.04,0.01,0.0,0.0,0.05
+2002 FIFA World Cup,2002.0,Sports,Electronic Arts,0.04,0.01,0.0,0.0,0.05
+Ribbit King,2003.0,Sports,Atari,0.04,0.01,0.0,0.0,0.05
+Summoner: A Goddess Reborn,2003.0,Role-Playing,THQ,0.04,0.01,0.0,0.0,0.05
+Frogger: Ancient Shadow,2005.0,Platform,Konami Digital Entertainment,0.04,0.01,0.0,0.0,0.05
+Black & Bruised,2003.0,Fighting,Vivendi Games,0.04,0.01,0.0,0.0,0.05
+Tom Clancy's Rainbow Six: Lockdown,2005.0,Shooter,Ubisoft,0.04,0.01,0.0,0.0,0.05
+Super Bubble Pop,2003.0,Puzzle,Jaleco,0.04,0.01,0.0,0.0,0.05
+Monster Jam: Maximum Destruction,2002.0,Racing,Ubisoft,0.04,0.01,0.0,0.0,0.05
+Big Air Freestyle,2002.0,Racing,Atari,0.04,0.01,0.0,0.0,0.05
+Bad Boys: Miami Takedown,2004.0,Shooter,Empire Interactive,0.03,0.01,0.0,0.0,0.05
+Disney's Donald Duck: Goin' Quackers,2002.0,Platform,Ubisoft,0.03,0.01,0.0,0.0,0.04
+Disney's Meet the Robinsons,2007.0,Action,Disney Interactive Studios,0.03,0.01,0.0,0.0,0.04
+Conflict: Desert Storm II - Back to Bagdhad,2004.0,Shooter,SCi,0.03,0.01,0.0,0.0,0.04
+King Arthur,2004.0,Action,Konami Digital Entertainment,0.03,0.01,0.0,0.0,0.04
+MLB SlugFest 20-04,2003.0,Sports,Midway Games,0.03,0.01,0.0,0.0,0.04
+Digimon Rumble Arena 2,2004.0,Fighting,Atari,0.03,0.01,0.0,0.0,0.04
+Mat Hoffman's Pro BMX 2,2002.0,Sports,Activision,0.03,0.01,0.0,0.0,0.04
+Dragon's Lair 3D: Return to the Lair,2002.0,Platform,THQ,0.03,0.01,0.0,0.0,0.04
+Zatch Bell! Mamodo Fury,2005.0,Fighting,Namco Bandai Games,0.03,0.01,0.0,0.0,0.04
+Shonen Jump's One Piece: Grand Adventure,2006.0,Fighting,Namco Bandai Games,0.03,0.01,0.0,0.0,0.04
+Jikkyou Powerful Major League,2006.0,Sports,Konami Digital Entertainment,0.0,0.0,0.04,0.0,0.04
+Evolution Skateboarding,2002.0,Sports,Konami Digital Entertainment,0.03,0.01,0.0,0.0,0.04
+Scaler,2004.0,Platform,Take-Two Interactive,0.03,0.01,0.0,0.0,0.04
+Cabela's Dangerous Hunts 2,2005.0,Sports,Activision,0.03,0.01,0.0,0.0,0.03
+SX Superstar,2003.0,Racing,Acclaim Entertainment,0.03,0.01,0.0,0.0,0.03
+Red Faction II,2003.0,Shooter,THQ,0.03,0.01,0.0,0.0,0.03
+Cabela's Outdoor Adventures,2005.0,Sports,Activision,0.03,0.01,0.0,0.0,0.03
+The Italian Job,2003.0,Racing,Eidos Interactive,0.03,0.01,0.0,0.0,0.03
+The Sum of All Fears,2003.0,Shooter,Ubisoft,0.03,0.01,0.0,0.0,0.03
+Disney Sports Soccer,2002.0,Sports,Konami Digital Entertainment,0.03,0.01,0.0,0.0,0.03
+Disney's Hide & Sneak,2003.0,Action,Capcom,0.03,0.01,0.0,0.0,0.03
+RoadKill,2003.0,Action,Midway Games,0.02,0.01,0.0,0.0,0.03
+F1 2002,2002.0,Racing,Electronic Arts,0.02,0.01,0.0,0.0,0.03
+Dr. Muto,2002.0,Platform,Midway Games,0.02,0.01,0.0,0.0,0.03
+Go! Go! Hypergrind,2003.0,Sports,Atlus,0.02,0.01,0.0,0.0,0.03
+Drome Racers,2003.0,Racing,Electronic Arts,0.02,0.01,0.0,0.0,0.03
+Fireblade,2002.0,Action,Midway Games,0.02,0.01,0.0,0.0,0.03
+Animaniacs: The Great Edgar Hunt,2005.0,Platform,Ignition Entertainment,0.02,0.01,0.0,0.0,0.03
+Dakar 2: The World's Ultimate Rally,2003.0,Racing,Acclaim Entertainment,0.02,0.01,0.0,0.0,0.03
+Auto Modellista,2003.0,Racing,Capcom,0.02,0.01,0.0,0.0,0.03
+Gotcha Force,2003.0,Shooter,Capcom,0.01,0.0,0.01,0.0,0.03
+Buffy the Vampire Slayer: Chaos Bleeds,2003.0,Action,Vivendi Games,0.02,0.01,0.0,0.0,0.03
+Archer Maclean Presents: Pool Paradise,2004.0,Sports,Ignition Entertainment,0.02,0.01,0.0,0.0,0.03
+ZooCube,2002.0,Puzzle,Acclaim Entertainment,0.02,0.0,0.0,0.0,0.02
+Jikkyou Powerful Pro Yakyuu 12 Ketteiban,2005.0,Sports,Konami Digital Entertainment,0.0,0.0,0.02,0.0,0.02
+Road Trip: The Arcade Edition,2002.0,Racing,Zoo Digital Publishing,0.02,0.0,0.0,0.0,0.02
+Future Tactics: The Uprising,2004.0,Strategy,JoWood Productions,0.02,0.0,0.0,0.0,0.02
+RedCard 20-03,2002.0,Sports,Midway Games,0.02,0.0,0.0,0.0,0.02
+NFL Blitz Pro,2003.0,Sports,Midway Games,0.02,0.0,0.0,0.0,0.02
+Muppets Party Cruise,2003.0,Misc,TDK Mediactive,0.02,0.0,0.0,0.0,0.02
+Serious Sam: Next Encounter,2004.0,Shooter,Global Star,0.02,0.0,0.0,0.0,0.02
+Carmen Sandiego: The Secret of the Stolen Drums,2004.0,Action,BAM! Entertainment,0.02,0.0,0.0,0.0,0.02
+Terminator 3: The Redemption,2004.0,Shooter,Atari,0.02,0.0,0.0,0.0,0.02
+XGRA: Extreme G Racing Association,2003.0,Racing,Acclaim Entertainment,0.02,0.0,0.0,0.0,0.02
+Casper: Spirit Dimensions,2002.0,Platform,TDK Mediactive,0.02,0.0,0.0,0.0,0.02
+ESPN MLS ExtraTime 2002,2002.0,Sports,Konami Digital Entertainment,0.02,0.0,0.0,0.0,0.02
+Speed Kings,2003.0,Racing,Acclaim Entertainment,0.01,0.0,0.0,0.0,0.02
+Charlie's Angels,2003.0,Action,Ubisoft,0.01,0.0,0.0,0.0,0.02
+NHL 2K3,2002.0,Sports,Sega,0.01,0.0,0.0,0.0,0.02
+Disney Sports Football,2002.0,Sports,Konami Digital Entertainment,0.01,0.0,0.0,0.0,0.02
+Freestyle Metal X,2003.0,Racing,Midway Games,0.01,0.0,0.0,0.0,0.02
+Spirits & Spells,2003.0,Platform,Wanadoo,0.01,0.0,0.0,0.0,0.02
+Goblin Commander: Unleash the Horde,2003.0,Strategy,Jaleco,0.01,0.0,0.0,0.0,0.02
+Pro Rally,2002.0,Racing,Ubisoft,0.01,0.0,0.0,0.0,0.02
+Samurai Jack: The Shadow of Aku,2004.0,Action,Sega,0.01,0.0,0.0,0.0,0.02
+Kao the Kangaroo Round 2,2005.0,Platform,JoWood Productions,0.01,0.0,0.0,0.0,0.02
+Mission: Impossible - Operation Surma,2004.0,Platform,Atari,0.01,0.0,0.0,0.0,0.02
+Trigger Man,2004.0,Shooter,Crave Entertainment,0.01,0.0,0.0,0.0,0.02
+Lotus Challenge,2004.0,Racing,Ignition Entertainment,0.01,0.0,0.0,0.0,0.02
+Puyo Pop Fever,2004.0,Puzzle,Sega,0.01,0.0,0.0,0.0,0.01
+Aquaman: Battle for Atlantis,2003.0,Action,TDK Mediactive,0.01,0.0,0.0,0.0,0.01
+Surf's Up,2007.0,Sports,Ubisoft,0.01,0.0,0.0,0.0,0.01
+Army Men: Air Combat - The Elite Missions,2003.0,Shooter,3DO,0.01,0.0,0.0,0.0,0.01
+Rally Championship,2003.0,Racing,SCi,0.01,0.0,0.0,0.0,0.01
+Grooverider: Slot Car Thunder,2003.0,Racing,Encore,0.01,0.0,0.0,0.0,0.01
+Darkened Skye,2002.0,Adventure,TDK Mediactive,0.01,0.0,0.0,0.0,0.01
+Egg Mania: Eggstreme Madness,2002.0,Puzzle,Kemco,0.01,0.0,0.0,0.0,0.01
+Space Raiders,2003.0,Shooter,Taito,0.01,0.0,0.0,0.0,0.01
+Bust-A-Move 3000,2003.0,Puzzle,Ubisoft,0.01,0.0,0.0,0.0,0.01
+Men in Black II: Alien Escape,2003.0,Shooter,Infogrames,0.01,0.0,0.0,0.0,0.01
