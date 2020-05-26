@@ -20,7 +20,7 @@
 
 <p>The goal of the project is to have a 85% accuracy on sales</p>
 
-<p>Problems:</p>
+<h2>Problems:</h2>
 
 <p>
     There is a lot of video games being as of 2020 due to the pandemic currently going on.
@@ -28,22 +28,13 @@
     Fans of current trending games have been more active and spending more cash on products related to video games.
     There was not enought data in this dataset on the different platforms.
 </p>
-
-<h2>Solutions:</h2>
-
-<p>
-    Collect only active teams
-    Account for player skills
-    Obtain team win/lose on maps
-</p>
     
 <h2>Recommendations for further developments:</h2>
 
-Have an updated team rating based on player rating
-Include in-game weapon skills of players
-Averaging player skills and applying to team rating
-Account for players switching to diff. teams and updating team rating
-Improve model.
+<p>
+    
+    Improve model.
+</p>
 
 <h2>Methods Used</h2>
 
